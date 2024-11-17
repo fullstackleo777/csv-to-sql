@@ -1,0 +1,5 @@
+config/db_config.json
+__pycache__/
+*.pyc
+*.log
+.env
