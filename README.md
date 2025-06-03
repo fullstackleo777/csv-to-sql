@@ -1,3 +1,5 @@
+![CSV to SQL Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/csv-to-sql/cover_csv-to-sql.png)
+
 # csv-to-sql
 General use structural starting point for git repo data csv to sql database using csv, mysql, and python
 
