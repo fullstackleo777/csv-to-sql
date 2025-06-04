@@ -1,7 +1,7 @@
 ![CSV to SQL Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/csv-to-sql/cover_csv-to-sql.png)
 
 # csv-to-sql
-General use structural starting point for git repo data csv to sql database using csv, mysql, and python
+Structural Starting Point for Data CSV to SQL Database Using CSV, MySQL, & Python - FullStackLeo
 
 ## Structure
 ~~~
@@ -59,3 +59,5 @@ csv-to-mysql-project/
 
 ## License
 This project is licensed under the MIT License.
+
+___
